@@ -17,3 +17,6 @@
 - First shipment was ordered from vendor
 
 ***
+
+## Week 4 - January 27, 2026
+- First prototype was developed
